@@ -7,3 +7,7 @@
 # Table of Contents
 
 Coming soon...
+
+
+## 📚 Related Awesome Lists
+- [Skill Hub — AI Agent Skills Navigator](https://skill.442595.xyz/) — 5,000+ curated AI agent skills across 20+ categories
