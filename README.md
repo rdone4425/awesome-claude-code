@@ -11,3 +11,7 @@ https://github.com/user-attachments/assets/c605ff99-9920-4f1a-b8ba-cdece210d2be
 # Table of Contents
 
 Coming soon...
+
+
+## Related Resources
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
